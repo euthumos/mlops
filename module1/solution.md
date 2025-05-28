@@ -25,7 +25,7 @@ Now let's compute the `duration` variable. It should contain the duration of a r
 What's the standard deviation of the trips duration in January?
 
 * 32.59
-* 42.59
+* **42.59**
 * 52.59
 * 62.59
 
@@ -75,3 +75,15 @@ What's the RMSE on train?
 * **7.64**
 * 11.64
 * 16.64
+
+
+## Q6. Evaluating the model
+
+Now let's apply this model to the validation dataset (February 2023). 
+
+What's the RMSE on validation?
+
+* 3.81
+* **7.81**
+* 11.81
+* 16.81
