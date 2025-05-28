@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748469693025
+current_stage: None
+description: null
+last_updated_timestamp: 1748469693025
+name: yellow_taxi_duration_model
+run_id: 4138c689cdd04a2db7d6d938670c34f0
+run_link: null
+source: file:///workspaces/mlops/module3/mlruns/941294331789042787/4138c689cdd04a2db7d6d938670c34f0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///workspaces/mlops/module3/mlruns/941294331789042787/4138c689cdd04a2db7d6d938670c34f0/artifacts/model
+user_id: null
+version: 3

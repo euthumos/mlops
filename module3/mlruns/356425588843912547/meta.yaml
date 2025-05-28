@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops/module3/mlruns/356425588843912547
+creation_time: 1748469894739
+experiment_id: '356425588843912547'
+last_update_time: 1748469894739
+lifecycle_stage: active
+name: yellow_taxi_duration_e4e62fd2-490c-419f-b7e0-a51607d71ace

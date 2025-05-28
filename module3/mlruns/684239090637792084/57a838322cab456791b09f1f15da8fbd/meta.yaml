@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/module3/mlruns/684239090637792084/57a838322cab456791b09f1f15da8fbd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '684239090637792084'
+lifecycle_stage: active
+run_id: 57a838322cab456791b09f1f15da8fbd
+run_name: secretive-lark-50
+run_uuid: 57a838322cab456791b09f1f15da8fbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748469828915
+status: 1
+tags: []
+user_id: codespace

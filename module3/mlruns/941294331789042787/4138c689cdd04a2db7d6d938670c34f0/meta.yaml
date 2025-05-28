@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/module3/mlruns/941294331789042787/4138c689cdd04a2db7d6d938670c34f0/artifacts
+end_time: 1748469693035
+entry_point_name: ''
+experiment_id: '941294331789042787'
+lifecycle_stage: active
+run_id: 4138c689cdd04a2db7d6d938670c34f0
+run_name: crawling-pug-13
+run_uuid: 4138c689cdd04a2db7d6d938670c34f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748469668483
+status: 3
+tags: []
+user_id: codespace

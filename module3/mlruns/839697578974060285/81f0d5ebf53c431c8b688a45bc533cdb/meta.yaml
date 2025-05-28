@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/module3/mlruns/839697578974060285/81f0d5ebf53c431c8b688a45bc533cdb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '839697578974060285'
+lifecycle_stage: active
+run_id: 81f0d5ebf53c431c8b688a45bc533cdb
+run_name: abrasive-horse-480
+run_uuid: 81f0d5ebf53c431c8b688a45bc533cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748469563785
+status: 1
+tags: []
+user_id: codespace

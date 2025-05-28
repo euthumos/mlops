@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/module3/mlruns/975326790798198401/0bf28c23383848828f70bb00e3439964/artifacts
+end_time: 1748469262606
+entry_point_name: ''
+experiment_id: '975326790798198401'
+lifecycle_stage: active
+run_id: 0bf28c23383848828f70bb00e3439964
+run_name: shivering-shrew-730
+run_uuid: 0bf28c23383848828f70bb00e3439964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748469240086
+status: 3
+tags: []
+user_id: codespace

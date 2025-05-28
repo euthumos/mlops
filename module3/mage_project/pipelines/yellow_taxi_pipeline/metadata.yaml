@@ -1,0 +1,74 @@
+blocks:
+- all_upstream_blocks_executed: true
+  color: yellow
+  configuration: {}
+  downstream_blocks:
+  - prepare___filter_data
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: Load & count raw data
+  retry_config: null
+  status: executed
+  timeout: null
+  type: custom
+  upstream_blocks: []
+  uuid: load___count_raw_data
+- all_upstream_blocks_executed: true
+  color: teal
+  configuration: {}
+  downstream_blocks:
+  - model_training
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: Prepare & filter data
+  retry_config: null
+  status: executed
+  timeout: null
+  type: custom
+  upstream_blocks:
+  - load___count_raw_data
+  uuid: prepare___filter_data
+- all_upstream_blocks_executed: true
+  color: blue
+  configuration: {}
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: model training
+  retry_config: null
+  status: executed
+  timeout: null
+  type: custom
+  upstream_blocks:
+  - prepare___filter_data
+  uuid: model_training
+cache_block_output_in_memory: false
+callbacks: []
+concurrency_config: {}
+conditionals: []
+created_at: '2025-05-28 20:34:55.789472+00:00'
+data_integration: null
+description: homework module 3
+executor_config: {}
+executor_count: 1
+executor_type: null
+extensions: {}
+name: yellow_taxi_pipeline
+notification_config: {}
+remote_variables_dir: null
+retry_config: {}
+run_pipeline_in_one_process: false
+settings:
+  triggers: null
+spark_config: {}
+tags: []
+type: python
+uuid: yellow_taxi_pipeline
+variables_dir: /home/codespace/.mage_data/mage_project
+widgets: []
