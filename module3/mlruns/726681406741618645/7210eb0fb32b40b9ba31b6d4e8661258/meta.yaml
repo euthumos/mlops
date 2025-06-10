@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/module3/mlruns/726681406741618645/7210eb0fb32b40b9ba31b6d4e8661258/artifacts
+end_time: 1749479117037
+entry_point_name: ''
+experiment_id: '726681406741618645'
+lifecycle_stage: active
+run_id: 7210eb0fb32b40b9ba31b6d4e8661258
+run_name: adorable-hare-887
+run_uuid: 7210eb0fb32b40b9ba31b6d4e8661258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749479094345
+status: 3
+tags: []
+user_id: codespace

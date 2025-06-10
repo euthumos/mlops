@@ -11,6 +11,9 @@ or choose a different one for your homework.
 
 What's the name of the orchestrator you chose? 
 
+```
+Mage AI
+```
 
 ## Question 2. Version
 

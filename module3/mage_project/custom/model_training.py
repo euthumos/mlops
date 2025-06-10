@@ -35,6 +35,9 @@ def transform_custom(df, *args, **kwargs):
 
         # 5) Print the intercept
         print(f'Model intercept_: {lr.intercept_}')
+        
+        # Log intercept as parameter
+        mlflow.log_param("intercept", lr.intercept_)
 
         # 6) Log artifacts
         mlflow.sklearn.log_model(
